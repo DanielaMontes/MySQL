@@ -1,3 +1,5 @@
+PRUEBA DANI
+
 Practice 1: Tables: EMP, DEPT
 1. The following SELECT statement executes successfully: SELECT ename, job, sal AS Sal
 FROM emp; True/False
