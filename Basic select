@@ -1,0 +1,71 @@
+Practice 1: Tables: EMP, DEPT
+1. The following SELECT statement executes successfully: SELECT ename, job, sal AS Sal
+FROM emp; True/False
+
+ 
+2. The following SELECT statement executes successfully:
+SELECT * FROM Dept;
+True/False
+ 
+ 
+3. There are three coding errors in this statement. Can you identify them?
+SELECT empno, ename
+Sal x 12 ANNUAL SALARIES FROM emp;
+
+
+4. Show the structure of the DEPT table. Select all data from the table.
+
+
+5. Show the structure of the EMP table. Create a query to display the EMPNO, ENAME, JOB, MGR, HIREDATE,
+SAL, COMM and DEPTNO for each employee, with employee name appearing first. Provide an alias STARTDATE for the HIREDATE column.
+
+
+6. Create a query to display unique job from the EMP table.
+
+
+7. In question no. 5 Name the column headings: EMP #, Employee, Job Title, and Hire Date, respectively. Run your query again.
+
+
+Practice 2
+
+
+1.Create a query to display the name and salary of employees earning more than 2,000. from EMP table
+
+
+2. Create a query to display the employee name and department number for employee number 7902.
+
+
+3. Display the name and salary for all employees whose salary is not in the range of 2,000 and 5,000.
+
+
+4.Displaytheemployee name,job,andHiredateofemployeeshiredbetweenFebruary20,1981,and May
+1, 1981. Order the query in ascending order by Hiredate.
+
+
+5.Display the name and department number of all employees in departments 10 and 30 in alphabetical order by name.
+
+
+6. list the name and salary of employees who earn between 2,000 and 3,000, and are in department 10
+or
+30. Label the columns Employee and Monthly Salary, respectively
+
+
+7. Display the name and hire date of every employee who was hired in 1981.
+
+
+8. Display the name and job title of all employees who do not have a manager.
+
+
+9.Displaythe name,salary,andcommissionforallemployeeswhoearncommissions.Sortdatain descending order of salary and commissions.
+
+
+10.Displaythe namesofallemployeeswherethethirdletterofthenameisanA.
+
+
+11. Display the name of all employees who have an A and an E in their last name.
+
+
+12.Displaythe name,job,andsalaryforallemployeeswhosejobissalesmanorclerkandwhosesalary is not equal to 1,600, 8000, or 1,300.
+
+
+13. Display the name, salary, and commission for all employees whose commission amount is 20% greater than salary
